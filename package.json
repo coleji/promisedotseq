@@ -1,11 +1,19 @@
 {
   "name": "promisedotseq",
-  "version": "0.1.1",
-  "description": "I know there are already a million of these on npm but none of them do exactly what I want.",
+  "version": "0.1.3",
+  "description": "Provides Promise.seq() functionality in a way that doesn't suck.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coleji/promisedotseq.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coleji/promisedotseq/issues"
+  },
+  "homepage": "https://github.com/coleji/promisedotseq#readme"
 }
