@@ -1,6 +1,6 @@
 {
   "name": "promisedotseq",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Provides Promise.seq() functionality in a way that doesn't suck.",
   "main": "index.js",
   "scripts": {

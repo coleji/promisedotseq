@@ -1,4 +1,4 @@
-Just like all the millions of other packages on npm that add Promise.seq() functionality, except it does not instantiate any promise in the list until the prior promise successfully resolves, and it fails fast as soon as any promise rejects.  Maybe someone else made a package that works like that but I tried the first 4 that came up and they all sucked so I wrote my own.
+Just like all the millions of other packages on npm that add Promise.seq() functionality, except it does not instantiate any promise in the list until the prior promise successfully resolves, and it fails fast as soon as any promise rejects.  Maybe someone else made a package that works like that but I tried the first 4 that came up and none of them were entirely what I was hoping for.
 
 ```js
 var promiseSequence = require("promisedotseq");
