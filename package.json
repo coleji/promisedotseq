@@ -1,0 +1,11 @@
+{
+  "name": "promisedotseq",
+  "version": "0.1.0",
+  "description": "I know there are already a million of these on npm but none of them do exactly what I want.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
